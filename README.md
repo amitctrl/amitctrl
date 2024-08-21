@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amitctrl
-- 👀 I’m interested in End to End DevOps DevSecOps MlOps technologies
+- 👀 I’m interested in End to End DevOps | DevSecOps | MlOps technologies
 - 🌱 I’m currently learning MlOps
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me amitontech@gmail.com
